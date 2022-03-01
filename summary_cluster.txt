@@ -1,0 +1,56 @@
+TIME POINT 0:
+suppressed mean: -0.0990376
+stationary mean: -0.0130822
+expressed mean: 0.0788725
+number of suppressed genes: 1816
+number of stationary genes: 2727
+number of expressed genes: 1575
+
+TIME POINT 1:
+suppressed mean: -0.504442
+stationary mean: -0.0423405
+expressed mean: 0.272742
+number of suppressed genes: 694
+number of stationary genes: 3719
+number of expressed genes: 1705
+
+TIME POINT 2:
+suppressed mean: -0.307331
+stationary mean: -0.00805741
+expressed mean: 0.296304
+number of suppressed genes: 1135
+number of stationary genes: 3651
+number of expressed genes: 1332
+
+TIME POINT 3:
+suppressed mean: -0.296325
+stationary mean: 0.0371231
+expressed mean: 0.535107
+number of suppressed genes: 1652
+number of stationary genes: 3773
+number of expressed genes: 693
+
+TIME POINT 4:
+suppressed mean: -0.37623
+stationary mean: 0.0414794
+expressed mean: 0.703677
+number of suppressed genes: 1954
+number of stationary genes: 3466
+number of expressed genes: 698
+
+TIME POINT 5:
+suppressed mean: -0.321558
+stationary mean: 0.0323562
+expressed mean: 0.649013
+number of suppressed genes: 2008
+number of stationary genes: 3486
+number of expressed genes: 624
+
+TIME POINT 6:
+suppressed mean: -0.315237
+stationary mean: 0.0215709
+expressed mean: 0.723751
+number of suppressed genes: 2350
+number of stationary genes: 3261
+number of expressed genes: 507
+
